@@ -6,6 +6,7 @@ This project was developed for use with Jupyter Notebooks, and requires some dep
 In order to effectively execute the data analysis noteboooks, the following dependencies would be required:
 - Pandas
 - Matplotlib
+- Seaborn
 - Plotly
 - ...[UPDATE]
 
