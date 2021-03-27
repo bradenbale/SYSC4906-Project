@@ -11,7 +11,7 @@ In order to effectively execute the data analysis noteboooks, the following depe
 - ...[UPDATE]
 
 ## Usage
-The included Notebooks each represent an analysis of a particular Hypthesis, which as a collection provide a comprehensive exploration of the higher level proposal: GDP is a poor indicator of wealth inequality for individual families. By executing and following through the analysis of each Hypothesis, this repository aims to prove this claim.
+The included Notebooks each represent an analysis of a particular Hypothesis, which as a collection, provide a comprehensive exploration of the higher level proposal: GDP is a poor indicator of wealth inequality for individual families. By executing and following through the analysis of each Hypothesis, this repository aims to prove this claim.
 
 ### Interactivity
 To enhance the visualization experience for some of the analysis, the following Google Collab was configured:
