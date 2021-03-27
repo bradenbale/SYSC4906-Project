@@ -18,4 +18,4 @@ https://colab.research.google.com/drive/1YoCk5oGZZXymaNNimITrj7hyciBYtge6?usp=sh
 
 
 ## Datasets
-The raw datasets that are used for the analysis in these notebooks have been sourced from various open data sources. These raw data collections have been saved in .CSV format within the `/datasets` directory of this repository. Through the execution of the notebooks, these raw data sources are cleaned and processed for their usage in the analysis of the respective Hypothesis that was being explored.
+The raw datasets that are used for the analysis in these notebooks have been sourced from various open data sources. These raw data collections have been saved in .CSV format within the `/datasets` directory of this repository, or found at https://github.com/bradenbale/SYSC906-Project/tree/main/datasets. Through the execution of the notebooks, these raw data sources are cleaned and processed for their usage in the analysis of the respective Hypothesis that was being explored.
