@@ -12,5 +12,10 @@ In order to effectively execute the data analysis noteboooks, the following depe
 ## Usage
 The included Notebooks each represent an analysis of a particular Hypthesis, which as a collection provide a comprehensive exploration of the higher level proposal: GDP is a poor indicator of wealth inequality for individual families. By executing and following through the analysis of each Hypothesis, this repository aims to prove this claim.
 
+### Interactivity
+To enhance the visualization experience for some of the analysis, the following Google Collab was configured:
+https://colab.research.google.com/drive/1YoCk5oGZZXymaNNimITrj7hyciBYtge6?usp=sharing
+
+
 ## Datasets
 The raw datasets that are used for the analysis in these notebooks have been sourced from various open data sources. These raw data collections have been saved in .CSV format within the `/datasets` directory of this repository. Through the execution of the notebooks, these raw data sources are cleaned and processed for their usage in the analysis of the respective Hypothesis that was being explored.
