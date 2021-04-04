@@ -1,5 +1,12 @@
 # SYSC4906-Project
-Gross Domestic Product: A poor indicator of the Wealth inequality of families due to Industrialization 
+Gross Domestic Product: A poor indicator of the Wealth inequality of families due to Industrialization
+
+## Notebooks
+Stefan Rottier - cost_of_living_gdp.ipynb  
+Braden Bale - HDIvsGDP_growth.ipynb  
+Izunna Otiji - GDP_Unemployment.ipynb  
+Paul Warhurst - MinimumWageAndGDP.ipynb  
+Mathew Smith - GiniIndex_GDP.ipynb  
 
 ## Requirements
 This project was developed for use with Jupyter Notebooks, and requires some dependencies to execute correctly.
@@ -8,7 +15,9 @@ In order to effectively execute the data analysis noteboooks, the following depe
 - Matplotlib
 - Seaborn
 - Plotly
-- ...[UPDATE]
+- ...[UPDATE]  
+
+Packages are installed though Anaconda Prompt using `conda install package-name`
 
 ## Usage
 The included Notebooks each represent an analysis of a particular Hypothesis, which as a collection, provide a comprehensive exploration of the higher level proposal: GDP is a poor indicator of wealth inequality for individual families. By executing and following through the analysis of each Hypothesis, this repository aims to prove this claim.
