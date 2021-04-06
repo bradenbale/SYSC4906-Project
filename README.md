@@ -1,7 +1,7 @@
 # SYSC4906-Project
-Gross Domestic Product: A Poor Indicator of a Nation’s Overall Performance as Experienced by its Citizens
+### Gross Domestic Product: A Poor Indicator of a Nation’s Overall Performance as Experienced by its Citizens
 
-The Gross Domestic Product per capita of a nation is often treated as the most important measure of a country’s economic performance. However, this use is misleading and suggests that the GDP of a nation is equally distributed among a country’s inhabitants. The experience of the individuals composing the nation is disregarded. Using datasets  containing information about national GDP, Real Minimum Wage, Wealth Inequality, Unemployment and Household Disposable Income over time, this project analyzed the effect of GDP  on the individuals in more detail.This analysis found that the use of GDP per capita alone is insufficient when analyzing the economical experience of the individuals. 
+The Gross Domestic Product per capita of a nation is often treated as the most important measure of a country’s economic performance. However, this use is misleading and suggests that the GDP of a nation is equally distributed among a country’s inhabitants. The experience of the individuals composing the nation is disregarded. Using datasets  containing information about national GDP, Real Minimum Wage, Wealth Inequality, Unemployment and Household Disposable Income over time, this project analyzed the effect of GDP  on the individuals in more detail. This analysis found that the use of GDP per capita alone is insufficient when analyzing the economical experience of the individuals. 
 
 ## Notebooks
 To more thoroughly explore how this project was completed, and how the insights were derived, the following notebooks were developed.
